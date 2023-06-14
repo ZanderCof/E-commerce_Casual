@@ -9,8 +9,8 @@ function Register() {
         <div className="front">
           <img src={Casual} alt="" />
           <div className="text">
-            <span className="text-1">LA TUA ARTE</span>
-            <span className="text-2">IL TUO NEGOZIO</span>
+            <span className="text-1">ACCEDI A CASUAL</span>
+            <span className="text-2">E VENDI I TUOI VESTITI</span>
           </div>
         </div>
         <div className="back">
